@@ -17,10 +17,4 @@ Although these SDK are FOSS, yet they will buy commercial solution for supportin
 
 The reason is simple; the project manager often takes care of the schedule of the software development, but not for the quality. And the developers often only think about the interface of the SDK because they are very busy.
 
-When a programmer understands the full principle they can optimize the code in all layers and in all area. We call these programmers full stack programmer.
-
-FYI: http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/
-
-They can start their studio works within a short time or employed by Startup Company as a CTO. More important thing is that they can learn the history of computer science clearly and accurately because we afford the understanding and demo we have learned.
-
-K&R said software means data structures and algorithms. And the format is the arrangement of data for computer input or output, such as the number and size of fields in a record or the spacing and punctuation of information in a report. So we call this website Format Laboratory (www.formatlaboratory.com) and FL for short.
+When a programmer understands the full principle they can optimize the code in all layers and in all area. 
